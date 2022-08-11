@@ -3,6 +3,7 @@
 
 ![img.png](img.png)
 
+![img_1.png](img_1.png)
 
 Essential Parts List:
 1. [Raspberry Pi pico](https://www.amazon.com/gp/product/B09437S9X4)
