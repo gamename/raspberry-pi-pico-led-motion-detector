@@ -1,6 +1,5 @@
 # raspberry-pi-pico-led-motion-detector
 
-
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
