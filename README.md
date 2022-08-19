@@ -1,8 +1,14 @@
 # raspberry-pi-pico-led-motion-detector
 
-![img.png](img.png)
+# Pictures 
 
-![img_1.png](img_1.png)
+![img.png](.README_images/img.png)
+
+![img_1.png](.README_images/img_1.png)
+
+![](.README_images/full_view.png)
+
+![](.README_images/motion_detector_and_connections.png)
 
 Parts List:
 1. [Raspberry Pi pico](https://www.amazon.com/gp/product/B09437S9X4)
