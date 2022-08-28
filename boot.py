@@ -9,7 +9,7 @@ from machine import Pin
 # How many pixels do we have?
 PIXEL_COUNT = 16
 
-# How long should we stay
+# How long should we keep the light on?
 LIGHT_MINUTES = 3
 
 # Which pin controls the light strip?
