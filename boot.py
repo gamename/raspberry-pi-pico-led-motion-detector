@@ -7,7 +7,7 @@ from neopixel import NeoPixel
 from machine import Pin
 
 # How many pixels do we have?
-PIXEL_COUNT = 16
+PIXEL_COUNT = 65
 
 # How long should we keep the light on?
 LIGHT_MINUTES = 3
@@ -19,7 +19,7 @@ PIXEL_PIN = Pin(0)
 MOTION_DETECTION_PIN = 1
 
 # Define the color we want to use for the light strip
-WHITE = (255, 255, 255)
+WHITE = (127, 127, 127)
 
 # Define how we want to turn off the light strip
 OFF = (0, 0, 0)
